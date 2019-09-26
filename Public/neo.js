@@ -1,3 +1,5 @@
+// Program on how to connect javascript and Neo4j
+
 function setup() {
   createCanvas(400, 400);
    	
