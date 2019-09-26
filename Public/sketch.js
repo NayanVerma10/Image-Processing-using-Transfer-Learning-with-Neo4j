@@ -1,3 +1,5 @@
+// Program for image recognition using Regresion
+
 let mobilenet;
 let predictor;
 let video;
