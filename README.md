@@ -24,4 +24,6 @@ Now you are ready to go , run Server.js form node.js and your program will run a
 
 # How the code works
 
-TODO
+To know how to use Neo4j with javascript visit file Public/neo.js
+
+
