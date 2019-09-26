@@ -1,5 +1,5 @@
 # Image-Processing-using-Transfer-Learning-with-Neo4j
-A image recognition system build uisng [p5.js](https://p5js.org) & [ml5.js](https://ml5js.org) libraries. Making use of node.js and a graph based NoSQL database, [Neo4j](https://neo4j.com)
+A image recognition (basically classification) system build uisng [p5.js](https://p5js.org) & [ml5.js](https://ml5js.org) libraries. Making use of node.js and a graph based NoSQL database, [Neo4j](https://neo4j.com)
 Implementing transfer learning.
 
 # How to get started
@@ -25,5 +25,9 @@ Now you are ready to go , run Server.js form node.js and your program will run a
 # How the code works
 
 To know how to use Neo4j with javascript visit file Public/neo.js
+
+You will run the server.js file through node.js which will run the file Public/index.html at localhost:3000 using socket.io.
+
+The file Public/index.html has the Neo4j driver code , socket.io , p5.js and ml5.js. It also runs the file Public/test.js which has the code for transfer learning and neo4j
 
 
