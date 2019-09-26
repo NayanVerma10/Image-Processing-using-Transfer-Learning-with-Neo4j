@@ -1,3 +1,5 @@
+// Just the transfer learning stuff 		NO Neo4j yet
+
 let features;
 let video;
 let knn;
